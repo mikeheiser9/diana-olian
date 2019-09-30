@@ -200,6 +200,8 @@
 
 .headshot-container {
   display: flex;
+  display: -webkit-flex;
+  display: -moz-flex;
   justify-content: center;
   margin-bottom: 50px;
 }
